@@ -27,7 +27,7 @@ public:
     virtual void showType() = 0;  
     void displayEmployeeInfo();
     void writeFile();
-    float getSalary(); // 新增的获取工资的方法
+    float getSalary(); 
 };
 
 #endif 
