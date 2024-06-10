@@ -1,4 +1,4 @@
-写入举例：
+写入结果举例：
 ID: 0, Name: wxp, Salary: 5000
 ID: 1, Name: qq, Salary: 200
 ID: 2, Name: ww, Salary: 10000
